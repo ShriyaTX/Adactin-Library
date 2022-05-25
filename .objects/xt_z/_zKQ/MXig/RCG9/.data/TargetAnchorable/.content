@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://adactinhotelapp.com/" ContentHash="kGauTJKpGEiXLZw_Wh3_Vw" DesignTimeRectangle="1382, 459, 237, 47" ElementType="InputBoxPassword" FriendlyName="'INPUT password'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='password' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' aaname='' /&gt;" Guid="e91d65d0-45c1-42b8-887e-3c100feb3aa2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Hotel Reservation System' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="1">
+      <Target DesignTimeRectangle="1148, 456, 231, 53" ElementType="Text" FriendlyName="'Password'" FullSelectorArgument="&lt;webctrl parentid='login_form' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tableRow='3' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='login_form' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='Password ' check:text='Password' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1jU2i30vMRESdQe9AledLQw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0gmj53F2hUkCx4CQkUNIwkw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1252f64c4ed9fc4b5a09c44a629588e9.png" xmlns="">08tz-038fx0-IzokQf9qrhg</imageRef>
+</TargetAnchorable>

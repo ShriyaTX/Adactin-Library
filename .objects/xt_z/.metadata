@@ -1,0 +1,12 @@
+﻿{
+  "Id": "xt_zxs4IREyZYeudhFIouA",
+  "Reference": "6Ltn-1KE-0Gmz0NKqKM3zA/xt_zxs4IREyZYeudhFIouA",
+  "Name": "Adactin",
+  "Description": "",
+  "Type": "App",
+  "Created": "2022-05-25T05:39:00.5515964Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-25T05:39:00.5515964Z"
+}
